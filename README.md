@@ -40,7 +40,7 @@ Dataset yang digunakan adalah **"Guardian Environment News Dataset"** dari Kaggl
 ---
 
 ### **Insight & Temuan Utama (Contoh)**
-Dari 10 artikel yang dianalisis, kami mendapatkan gambaran awal mengenai distribusi topik isu lingkungan yang paling sering diberitakan. [**Sebutkan 1-2 insight singkat dari visualisasi Anda di sini, misalnya: "Terlihat bahwa isu 'Perubahan Iklim' merupakan topik yang dominan dalam berita yang dianalisis."**]
+Dari 10 artikel yang dianalisis, kami mendapatkan gambaran awal mengenai distribusi topik isu lingkungan yang paling sering diberitakan. [**misalnya: "Terlihat bahwa isu 'Perubahan Iklim' merupakan topik yang dominan dalam berita yang dianalisis."**]
 
 ---
 
